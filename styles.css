@@ -1,0 +1,130 @@
+#container {
+	overflow:hidden;
+	opacity:1;
+	width:1063px;
+	height:650px;
+	position:absolute;
+}
+#e1_3 { 
+	opacity:1;
+	width:1063px;
+	height:650px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(assets/id-card-bg.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+#phone {
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:395px;
+	height:28px;
+	position:absolute;
+	left:631px;
+	top:351px;
+	font-family:Roboto;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#email {
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:395px;
+	height:28px;
+	position:absolute;
+	left:631px;
+	top:383px;
+	font-family:Roboto;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#e1_14 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:395px;
+	height:28px;
+	position:absolute;
+	left:631px;
+	top:318px;
+	font-family:Roboto;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#e2_3 { 
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:395px;
+	height:28px;
+	position:absolute;
+	left:631px;
+	top:25px;
+	font-family:Roboto;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#address {
+	color:rgba(255, 255, 255, 1);
+	opacity:1;
+	width:416px;
+	height:84px;
+	position:absolute;
+	left:610px;
+	top:58px;
+	font-family:Roboto;
+	text-align:right;
+	font-size:24px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#e2_0 { 
+	color:rgba(250.00000029802322, 231.00000143051147, 112.000000923872, 1);
+	opacity:1;
+	width:416px;
+	height:45px;
+	position:absolute;
+	left:610px;
+	top:209px;
+	font-family:Nunito;
+	text-align:right;
+	font-size:33px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#e2_1 { 
+	color:rgba(250.00000029802322, 231.00000143051147, 112.000000923872, 1);
+	opacity:1;
+	width:416px;
+	height:45px;
+	position:absolute;
+	left:610px;
+	top:249px;
+	font-family:Nunito;
+	text-align:right;
+	font-size:33px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
+#name {
+	color:rgba(250.00000029802322, 231.00000143051147, 112.000000923872, 1);
+	opacity:1;
+	width:416px;
+	height:71px;
+	position:absolute;
+	left:610px;
+	top:154px;
+	font-family:Baloo;
+	text-align:right;
+	font-size:45px;
+	letter-spacing:0;
+	/*line-height:undefined;*/
+}
